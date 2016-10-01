@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3fe14a80-6d7c-417f-82b0-821a2cf27a13</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>64F5BDC1440C9F52A35FC1776AE4C86F38072A09536C6B23EC851F48DD807E75</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3fe14a80-6d7c-417f-82b0-821a2cf27a13_1.0.0.0_neutral__kvj54bz2tpbt2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3fe14a80-6d7c-417f-82b0-821a2cf27a13_kvj54bz2tpbt2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3fe14a80-6d7c-417f-82b0-821a2cf27a13</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=bhansa</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-29T14:38:10.104</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\App5.exe">
+      <PackagePath>App5.exe</PackagePath>
+      <Modified>2016-09-30T10:11:55.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-14T10:11:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-14T10:12:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\App5.xr.xml">
+      <PackagePath>App5.xr.xml</PackagePath>
+      <Modified>2014-09-14T10:12:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\bhansa_Projects\App5_stopwatch\App5\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-29T14:38:09.727</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,52 @@
+D:\Windows store\App2\App2\bin\Debug\App2.exe
+D:\Windows store\App2\App2\bin\Debug\App2.pdb
+D:\Windows store\App2\App2\bin\Debug\resources.pri
+D:\Windows store\App2\App2\bin\Debug\AppxManifest.xml
+D:\Windows store\App2\App2\bin\Debug\App2.build.appxrecipe
+D:\Windows store\App2\App2\obj\Debug\App.g.i.cs
+D:\Windows store\App2\App2\obj\Debug\App.g.cs
+D:\Windows store\App2\App2\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Windows store\App2\App2\obj\Debug\Common\StandardStyles.g.cs
+D:\Windows store\App2\App2\obj\Debug\MainPage.g.i.cs
+D:\Windows store\App2\App2\obj\Debug\MainPage.g.cs
+D:\Windows store\App2\App2\obj\Debug\XamlTypeInfo.g.cs
+D:\Windows store\App2\App2\obj\Debug\App.xaml
+D:\Windows store\App2\App2\obj\Debug\Common\StandardStyles.xaml
+D:\Windows store\App2\App2\obj\Debug\MainPage.xaml
+D:\Windows store\App2\App2\obj\Debug\App2.exe
+D:\Windows store\App2\App2\obj\Debug\App2.pdb
+D:\Windows store\App2\App2\obj\Debug\priconfig.xml
+D:\Windows store\App2\App2\obj\Debug\layout.resfiles
+D:\Windows store\App2\App2\obj\Debug\resources.resfiles
+D:\Windows store\App2\App2\obj\Debug\pri.resfiles
+D:\Windows store\App2\App2\obj\Debug\LanguageQualifiers.txt
+D:\Windows store\App2\App2\obj\Debug\ProjectArchitectures.txt
+C:\Users\Admin\Desktop\App2\App2\bin\Debug\App2.exe
+C:\Users\Admin\Desktop\App2\App2\bin\Debug\App2.pdb
+C:\Users\Admin\Desktop\App2\App2\bin\Debug\resources.pri
+C:\Users\Admin\Desktop\App2\App2\bin\Debug\AppxManifest.xml
+C:\Users\Admin\Desktop\App2\App2\bin\Debug\App2.build.appxrecipe
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\App.g.i.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\MainPage.g.i.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\MainPage.g.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\App.xaml
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\MainPage.xaml
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\App2.exe
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\App2.pdb
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\priconfig.xml
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\priconfig.xml.intermediate
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\layout.resfiles
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\layout.resfiles.intermediate
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\resources.resfiles
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\resources.resfiles.intermediate
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\pri.resfiles
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\pri.resfiles.intermediate
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\qualifiers.txt
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\Desktop\App2\App2\obj\Debug\ProjectArchitectures.txt
